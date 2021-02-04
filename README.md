@@ -1,2 +1,3 @@
 # hello-world
-just a test dude
+
+Bonjour les amis, je teste un peu Github, ça a l'air marrant.
